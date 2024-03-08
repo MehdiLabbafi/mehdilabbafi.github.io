@@ -13,6 +13,7 @@ I am Mehdi Labbafi, a singer, website designer, and developer. I believe that ar
 
 You can visit <a href="https://mehdilabbafi.github.io/index.html" target="_blank">my website</a> to see some of my projects, including my latest album "Pause" and other musical compositions. I strive to create meaningful and engaging experiences through my music and web design.
 
+To access the GitHub wiki, please visit [this page](https://github.com/MehdiLabbafi/mehdilabbafi.github.io/wiki).
 
 ## Connect with Me
 
