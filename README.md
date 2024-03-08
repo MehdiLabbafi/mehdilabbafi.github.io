@@ -11,18 +11,20 @@ I am Mehdi Labbafi, a singer, website designer, and developer. I believe that ar
 
 ## My Work
 
-You can visit [my website](https://mehdilabbafi.github.io/index.html) to see some of my projects, including my latest album "Pause" and other musical compositions. I strive to create meaningful and engaging experiences through my music and web design.
+You can visit [my website](https://mehdilabbafi.github.io/index.html){:target="_blank"} to see some of my projects, including my latest album "Pause" and other musical compositions. I strive to create meaningful and engaging experiences through my music and web design.
+
 
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/mehdilabbafi/">
+  <a href="https://www.instagram.com/mehdilabbafi/" target="_blank">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/small-Instagram-logo-black-glyph.png" alt="Instagram">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/mehdi_labbafi">
+  <a href="https://twitter.com/mehdi_labbafi" target="_blank">
     <img src="https://pngimg.com/uploads/twitter/small/twitter_PNG1.png" alt="Twitter">
   </a>
 </p>
+
 
 <p align="center">Feel free to connect with me on Instagram and Twitter to stay updated on my latest works and projects.</p>
 
