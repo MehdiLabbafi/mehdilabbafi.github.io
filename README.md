@@ -11,7 +11,7 @@ I am Mehdi Labbafi, a singer, website designer, and developer. I believe that ar
 
 ## My Work
 
-You can visit [my website](https://mehdilabbafi.github.io/index.html){:target="_blank"} to see some of my projects, including my latest album "Pause" and other musical compositions. I strive to create meaningful and engaging experiences through my music and web design.
+You can visit <a href="https://mehdilabbafi.github.io/index.html" target="_blank">my website</a> to see some of my projects, including my latest album "Pause" and other musical compositions. I strive to create meaningful and engaging experiences through my music and web design.
 
 
 ## Connect with Me
