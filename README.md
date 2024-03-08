@@ -1,4 +1,7 @@
+
+  
 # Mehdi Labbafi
+
 
 ![Mehdi Labbafi](https://th.bing.com/th/id/OIG4.9sd_bv7D6dhLBJ5ChkVf?w=1024&h=1024&rs=1&pid=ImgDetMain)
 
@@ -12,12 +15,17 @@ You can visit [my website](https://mehdilabbafi.github.io/index.html) to see som
 
 ## Connect with Me
 
-[![Instagram](https://www.edigitalagency.com.au/wp-content/uploads/small-Instagram-logo-black-glyph.png)](https://www.instagram.com/mehdilabbafi/)
-[![Twitter](https://pngimg.com/uploads/twitter/small/twitter_PNG1.png)](https://twitter.com/mehdi_labbafi)
+<p align="center">
+  <a href="https://www.instagram.com/mehdilabbafi/">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/small-Instagram-logo-black-glyph.png" alt="Instagram">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/mehdi_labbafi">
+    <img src="https://pngimg.com/uploads/twitter/small/twitter_PNG1.png" alt="Twitter">
+  </a>
+</p>
 
-Feel free to connect with me on Instagram and Twitter to stay updated on my latest works and projects.
+<p align="center">Feel free to connect with me on Instagram and Twitter to stay updated on my latest works and projects.</p>
 
 <div style="background-color: black; color: white;">
 <!-- Your content goes here -->
 </div>
-
